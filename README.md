@@ -1,4 +1,4 @@
-# Optimisation Machine Learning pour Résolution de Problèmes Environnementaux avec Données Satellites
+# Machine Learning 
 
 Ce projet a été créé pour explorer l'utilisation de l'apprentissage automatique et de l'optimisation pour résoudre des problèmes environnementaux en utilisant des données satellitaires. Nous avons utilisé des méthodes de régression linéaire et de régression ridge pour analyser les données et développer des modèles de prédiction environnementale.
 
