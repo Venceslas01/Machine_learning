@@ -24,11 +24,9 @@ L'objectif principal de ce projet est d'optimiser les modèles de prédiction en
 1. Assurez-vous d'avoir les bibliothèques nécessaires installées en exécutant `pip install pandas numpy seaborn matplotlib scikit-learn`.
 2. Exécutez le code dans l'ordre indiqué dans 'untitled.ipynb'.
 
-## Contribuer
-
-Toute contribution à ce projet est la bienvenue ! N'hésitez pas à créer des pull requests pour apporter des améliorations, des correctifs ou des nouvelles fonctionnalités.
+## Aperçu
 
 
-- [Votre Nom]
 
-N'hésitez pas à ajouter plus de détails, de captures d'écran ou d'exemples de résultats à cette page README pour donner aux visiteurs une meilleure compréhension de votre projet.
+
+
